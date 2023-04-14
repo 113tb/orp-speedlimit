@@ -11,5 +11,4 @@ This is a remake of the Oceanside RP speedlimit Script, Forked from yoda
 
 
 **Resmon**
-This script is not optimised 
 ![image](https://user-images.githubusercontent.com/113441527/228096998-5e1e4275-12ce-4fec-9e7e-970b887b94e5.png)
